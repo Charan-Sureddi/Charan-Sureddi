@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan Sureddi</h1>
-<h3 align="center">A Developer, and Student</h3>
+<h3 align="center">A Learner, Developer, and Enthusiast</h3>
 
 - 🔭 I’m currently working on **everything**
 
